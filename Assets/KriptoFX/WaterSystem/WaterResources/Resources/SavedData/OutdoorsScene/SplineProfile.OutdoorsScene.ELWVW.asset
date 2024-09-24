@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec75ce71e21e40849beed5184a1b355f, type: 3}
+  m_Name: SplineProfile.OutdoorsScene.ELWVW
+  m_EditorClassIdentifier: 
+  Splines:
+  - InitialSplinePosition: {x: 17.93, y: 0, z: 12.5}
+    ID: 0
+    SplinePoints:
+    - ID: 0
+      WorldPosition: {x: 18.980848, y: 17.268473, z: 6.9823465}
+      Width: 10
+    - ID: 1
+      WorldPosition: {x: 15.202891, y: 14.330251, z: 27.741894}
+      Width: 10
+    - ID: 2
+      WorldPosition: {x: 21.942385, y: 14.62042, z: 56.085903}
+      Width: 10
+    VertexCountBetweenPoints: 10
+    Depth: 1
